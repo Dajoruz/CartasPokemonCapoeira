@@ -1,0 +1,30 @@
+canvas {
+    background-image: url(https://lh3.googleusercontent.com/proxy/OiGWpUcDM-RV_VK2JVilCOKyXxGiKTdMThAVTKWao8PDIkCy6D2nw18-ZiSLuoQ0vgDgHMUhF3oX0djjG7pJMax6tiSVH8NT_G8n4a25grlM);
+	border: 1px solid black;
+	margin-top: 2vh;
+  	z-index: 0;
+}
+
+.play-guide {
+	margin: 5%;
+}
+html{
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        }
+#content{
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        }
+
+@font-face {
+    font-family: "ChineseTakeaway";
+    src: url("../fonts/ChineseTakeaway.ttf");
+}
+
+@font-face {
+    font-family: "RagingRedLotusBB";
+    src: url("../fonts/RagingRedLotusBB.ttf");
+}
